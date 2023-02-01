@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: AMIR dataset releases
-description: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments.
+title: AMIR releases
+description: Active Multimodal Interaction Recognition from Video and Network Traffic.
 logo: /assets/imgs/amir-icon.png
 colors:
   primary: "#b43433"

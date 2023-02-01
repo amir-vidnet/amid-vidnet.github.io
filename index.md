@@ -18,7 +18,8 @@ We aim to minimize the amount of "paired" examples needed to collect to fuse two
 
 ## Datasets
 We release different versions of datasets to cover different research needs, you can find README files within each link.
-[dataset] [dataset (ip-filtered)] [processed features] [video-only dataset] [network-only dataset].
+
+[dataset] [dataset (ip-filtered)] [processed features] [video-only dataset] [network-only dataset]
 
 To the best of our knowledge, we collect the first dataset that explores the paired observations on video and network traffic. we first choose four most representative devices to collect both physical and proximate interactions. 
 
@@ -36,6 +37,7 @@ physical environments.
 
 ## Models and results
 We release our trained models here, with their confusion matrix below.
+
 [video models] [network models] [meta-learning models]
 
 ![](assets/imgs/confusion.png)
@@ -50,13 +52,13 @@ Whether in lab or at home, this approach reduces the amount of “paired” demo
 If you use our datasets/feature sets/models/code, please cite it as:
 
 ```markdown
-    @article{liu2023amir,
+@article{liu2023amir,
     title={AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments},
     author={Liu, Shinan and Mangla, Tarun and Shaowang, Ted and Zhao, Jinjin and Paparrizos, John and Krishnan, Sanjay and Feamster, Nick},
     journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
     year={2023}
     publisher={ACM Cancún, Mexico}
-    }
+}
 
 
 ```
