@@ -1,4 +1,4 @@
-# AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments
+# Video + Network Traffic for Activity Recognition!
 
 [paper] [code] [datasets] [models]
 
@@ -59,8 +59,6 @@ If you use our datasets/feature sets/models/code, please cite it as:
     year={2023}
     publisher={ACM Cancún, Mexico}
 }
-
-
 ```
 
 ## Questions 
