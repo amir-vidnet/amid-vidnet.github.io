@@ -1,6 +1,6 @@
 # Video + Network Traffic for Activity Recognition!
 
-[paper] [code] [datasets] [models]
+[paper](https://www.shinan.info/wp-content/uploads/2023/03/liu-imwut23.pdf) [pipeline] [datasets] [models]
 
 ## Background
 
@@ -56,8 +56,18 @@ If you use our datasets/feature sets/models/code, please cite it as:
     title={AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments},
     author={Liu, Shinan and Mangla, Tarun and Shaowang, Ted and Zhao, Jinjin and Paparrizos, John and Krishnan, Sanjay and Feamster, Nick},
     journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
-    year={2023}
-    publisher={ACM Cancún, Mexico}
+    year={2023},
+    issue_date = {March 2023},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {7},
+    number = {1},
+    url = {https://doi.org/10.1145/3580818},
+    doi = {10.1145/3580818},
+    journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+    month = {mar},
+    articleno = {21},
+    numpages = {26}
 }
 ```
 
