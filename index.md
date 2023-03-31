@@ -1,6 +1,6 @@
 # Video + Network Traffic for Activity Recognition!
 
-[paper](https://www.shinan.info/wp-content/uploads/2023/03/liu-imwut23.pdf) [pipeline] [datasets] [models]
+[[paper](https://www.shinan.info/wp-content/uploads/2023/03/liu-imwut23.pdf)] [[datasets](https://drive.google.com/drive/folders/1RGZQHSV3SbmfYFF6rQzN_9sI_rRtETpM?usp=sharing)] [pipeline] [models]
 
 ## Background
 
@@ -19,7 +19,7 @@ We aim to minimize the amount of "paired" examples needed to collect to fuse two
 ## Datasets
 We release different versions of datasets to cover different research needs, you can find README files within each link.
 
-[dataset] [dataset (ip-filtered)] [processed features] [video-only dataset] [network-only dataset]
+[[dataset](https://drive.google.com/drive/folders/1RGZQHSV3SbmfYFF6rQzN_9sI_rRtETpM?usp=sharing)] [dataset (ip-filtered)] [processed features] [video-only dataset] [network-only dataset]
 
 To the best of our knowledge, we collect the first dataset that explores the paired observations on video and network traffic. we first choose four most representative devices to collect both physical and proximate interactions. 
 
@@ -56,18 +56,12 @@ If you use our datasets/feature sets/models/code, please cite it as:
     title={AMIR: Active Multimodal Interaction Recognition from Video and Network Traffic in Connected Environments},
     author={Liu, Shinan and Mangla, Tarun and Shaowang, Ted and Zhao, Jinjin and Paparrizos, John and Krishnan, Sanjay and Feamster, Nick},
     journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+    url = {https://doi.org/10.1145/3580818},
     year={2023},
     issue_date = {March 2023},
-    publisher = {Association for Computing Machinery},
     address = {New York, NY, USA},
     volume = {7},
     number = {1},
-    url = {https://doi.org/10.1145/3580818},
-    doi = {10.1145/3580818},
-    journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
-    month = {mar},
-    articleno = {21},
-    numpages = {26}
 }
 ```
 
