@@ -1,6 +1,6 @@
 # Video + Network Traffic for Activity Recognition!
 
-[[paper](https://www.shinan.info/wp-content/uploads/2023/03/liu-imwut23.pdf)] [[datasets](https://drive.google.com/drive/folders/1RGZQHSV3SbmfYFF6rQzN_9sI_rRtETpM?usp=sharing)] [pipeline] [models]
+[[paper](https://www.shinan.info/wp-content/uploads/2023/03/liu-imwut23.pdf)] [[datasets](https://drive.google.com/drive/folders/1RGZQHSV3SbmfYFF6rQzN_9sI_rRtETpM?usp=sharing)] [[pipeline](https://github.com/shinan6/amir-pipeline)] [[models](https://github.com/shinan6/amir-pipeline/blob/master/Modeling%20Pipeline.ipynb)]
 
 ## Background
 
@@ -19,7 +19,7 @@ We aim to minimize the amount of "paired" examples needed to collect to fuse two
 ## Datasets
 We release different versions of datasets to cover different research needs, you can find README files within each link.
 
-[[dataset](https://drive.google.com/drive/folders/1RGZQHSV3SbmfYFF6rQzN_9sI_rRtETpM?usp=sharing)] [dataset (ip-filtered)] [processed features] [video-only dataset] [network-only dataset]
+[[dataset](https://drive.google.com/drive/folders/1RGZQHSV3SbmfYFF6rQzN_9sI_rRtETpM?usp=sharing)] [dataset (ip-filtered)] [[processed features](https://drive.google.com/drive/folders/15i5sDZYzTYj--HjDaD0Ntra2Al-YvvZA?usp=drive_link)] 
 
 To the best of our knowledge, we collect the first dataset that explores the paired observations on video and network traffic. we first choose four most representative devices to collect both physical and proximate interactions. 
 
@@ -38,7 +38,7 @@ physical environments.
 ## Models and results
 We release our trained models here, with their confusion matrix below.
 
-[video models] [network models] [meta-learning models]
+[[models](https://github.com/shinan6/amir-pipeline/blob/master/Modeling%20Pipeline.ipynb)]
 
 ![](assets/imgs/confusion.png)
 
